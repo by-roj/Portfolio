@@ -101,6 +101,39 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 - NoSQL 개념 공부
 - MongoDB 기초 공부
 
+##  
+
+### *디지털 포렌식 전문가 자격증*
+
+`#Forensic`
+
+[Github Link](https://github.com/Lee-YongHa/Forensic-Study)
+
+디지털 포렌식 전문가 자격증 취득을 위한 스터디
+
+- 필기 : 요약본 매주 공부하고 '2019 디지털포렌식 전문가 2급 (국가공인) 기출문제' 풀이
+- 실기 : 기출문제 풀이
+
+##  
+
+### *Forensic WarGame*
+
+`#Forensic`
+
+[Github Link](https://github.com/Lee-YongHa/Forensic-WarGame)
+
+디지털 포렌식 관련 WarGame 풀이 기록
+
+##  
+
+### *Forensic Tool*
+
+`#Forensic` `#Python`
+
+[Github Link](https://github.com/Lee-YongHa/Forensic-Tool)
+
+디지털 포렌식 도구, 알고리즘을 Python으로 구현
+
 <br>
 
 ## [ Courses ]
