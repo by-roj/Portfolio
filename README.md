@@ -26,7 +26,7 @@ Web 상에서 입력한 데이터로 해당 과목의 수강 신청 성공을 �
 - 이전 수강 신청 관련 정보 열람
 - 입력한 데이터에 기반한 수강 신청 성공 가능성(%) 예측
 
-## 
+##  
 
 ### *시대별 가사 변화 양상 분석*
 
@@ -60,6 +60,46 @@ Web 상에서 LMS(학습 관리) 시스템을 관리할 수 있도록 구현한 
 [Github Link](https://github.com/Lee-YongHa/MLB-Prediction)
 
 MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하는 프로젝트
+
+<br>
+
+## [ Studies ]
+
+### *Crawling*
+
+`#Selenium`
+
+[Github Link](https://github.com/Lee-YongHa/Crawling-Study)
+
+[T academy](https://tacademy.skplanet.com/frontMain.action)에서 제공하는 [Python을 활용한 웹 크롤러 만들기](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=133) 강의를 매주 수강 후, 발제하고 실습하는 스터디
+
+- Crawling 개념 공부
+- Selenium 공부
+
+##  
+
+### *MySQL*
+
+`#MySQL`
+
+[Github Link](https://github.com/Lee-YongHa/MySQL-Study)
+
+'SQL 첫걸음' 교재를 매주 공부하고 발제하는 스터디
+
+- MySQL 공부
+
+##  
+
+### *NoSQL*
+
+`#MongoDB`
+
+[Github Link](https://github.com/Lee-YongHa/NoSQL-Study)
+
+'MongoDB in Action' 교재를 매주 공부하고 발제하는 스터디
+
+- NoSQL 개념 공부
+- MongoDB 기초 공부
 
 <br>
 
