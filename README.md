@@ -1,6 +1,6 @@
 # Portfolio
 
-이용하
+- 이용하
 
 - email: ldiwn@naver.com
 
@@ -17,13 +17,14 @@
 
 ### *수강 신청 성공 예측*
 
-`#Python`  `#MySQL` `#pyMySQL` `#XGBoost` `#GridSearchCV`  `#Flask` 
+`#Python` `#MySQL` `#pyMySQL` `#XGBoost` `#GridSearchCV` `#Flask`
 
 [GitHub Link](https://github.com/Lee-YongHa/CourseRegistration-Prediction)
 
 Web 상에서 입력한 데이터로 해당 과목의 수강 신청 성공을 예측하는 프로젝트
 
 - 이전 수강 신청 관련 정보 열람
+
 - 입력한 데이터에 기반한 수강 신청 성공 가능성(%) 및 추천 마일리지 예측
 
 ##  
@@ -37,6 +38,7 @@ Web 상에서 입력한 데이터로 해당 과목의 수강 신청 성공을 �
 시대별 가사 변화 양상을 분석하고 Web 상에서 시각화한 프로젝트
 
 - chart, wordcloud 등을 통한 시각화
+
 - Interactive Web : 선택한 연도별, 구간별 분석 결과 출력
 
 ##  
@@ -74,6 +76,7 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 [T academy](https://tacademy.skplanet.com/frontMain.action)에서 제공하는 [Python을 활용한 웹 크롤러 만들기](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=133) 강의를 매주 수강 후, 발제하고 실습하는 스터디
 
 - Crawling 개념 공부
+
 - Selenium 공부
 
 ##  
@@ -99,6 +102,7 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 'MongoDB in Action' 교재를 매주 공부하고 발제하는 스터디
 
 - NoSQL 개념 공부
+
 - MongoDB 기초 공부
 
 ##  
@@ -112,6 +116,7 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 디지털 포렌식 전문가 자격증 취득을 위한 스터디
 
 - 필기 : 요약본 매주 공부하고 '2019 디지털포렌식 전문가 2급 (국가공인) 기출문제' 풀이
+
 - 실기 : 기출문제 풀이
 
 ##  
@@ -136,22 +141,40 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 <br>
 
-## [ Courses ]
+
+
+ ## [ Courses ]
 
 대학교에서 컴퓨터과학을 복수전공하며 수강한 과목 리스트입니다.
 
 - 통계학입문
+
 - 컴퓨터과학입문
-- 객체지향프로그래밍(`Java`)
+
+- 객체지향프로그래밍(Java)
+
 - 자료구조
+
 - 이산구조
+
 - 컴퓨터시스템
+
 - 운영체제
+
 - 시스템프로그래밍
+
 - 데이터베이스
+
 - 컴파일러설계
+
 - 오토메타형식언어 (수강중)
+
 - 컴퓨터아키텍쳐 (수강중)
+
 - 컴퓨터그래픽스 (수강중)
 
-**감사합니다**
+  
+
+#### 감사합니다
+
+ 
