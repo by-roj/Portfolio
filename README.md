@@ -35,7 +35,7 @@ Web 상에서 입력한 데이터로 해당 과목의 수강 신청 성공을 �
 
 > 시대별 가사 변화 양상
 
-`#Python` `#Konlpy` `#TF-IDF` `#H-P Point` `#JavaScript`
+`#Python` `#NLTK` `#KoNLPy` `#TF-IDF` `#H-P Point` `#JavaScript`
 
 [Github Link](https://github.com/Lee-YongHa/Lyrics-Analysis)
 
