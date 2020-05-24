@@ -15,7 +15,9 @@
 
 ## 📜 Projects
 
-### *수강 신청 성공 예측*
+### *수강 신청 결과 예측과 웹 구현*
+
+> 웹을 통한 마일리지 수강 신청 가이드라인 제공
 
 `#Python` `#MySQL` `#pyMySQL` `#XGBoost` `#GridSearchCV` `#Flask`
 
@@ -29,7 +31,9 @@ Web 상에서 입력한 데이터로 해당 과목의 수강 신청 성공을 �
 
 ##  
 
-### *시대별 가사 변화 양상 분석*
+### *가사로 분석하는 사회*
+
+> 시대별 가사 변화 양상
 
 `#Python` `#Konlpy` `#TF-IDF` `#H-P Point` `#JavaScript`
 
@@ -55,7 +59,7 @@ Web 상에서 LMS(학습 관리) 시스템을 관리할 수 있도록 구현한 
 
 ##  
 
-### *FA 금액 예측*
+### *메이저리거의 FA 적정 급여 책정*
 
 `#Multiple Linear Regression` `#PCA` `#NN` `#Random Forest`
 
