@@ -68,7 +68,7 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 ## 
 
-### 산업제어시스템 보안 위협 탐지 AI 모델 개발
+### *산업제어시스템 보안 위협 탐지 AI 모델 개발*
 
 `#LSTM` `#CNN ` `#AutoEncoder` `#Dynamic Threshold`
 
