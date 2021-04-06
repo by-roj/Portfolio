@@ -67,6 +67,16 @@ Web 상에서 LMS(학습 관리) 시스템을 관리할 수 있도록 구현한 
 
 MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하는 프로젝트
 
+## 
+
+### 산업제어시스템 보안 위협 탐지 AI 모델 개발
+
+`#LSTM` `#CNN ` `#AutoEncoder` `#Dynamic Threshold`
+
+[Github Link](https://github.com/Lee-YongHa/HAISecurity-Detection)
+
+HAI 데이터셋을 활용하여 공격 및 비정상 상황을 탐지할 수 있는 AI 모델을 개발하는 프로젝트
+
 <br>
 
 ## 📝 Studies
