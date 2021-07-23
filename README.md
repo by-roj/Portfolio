@@ -20,7 +20,7 @@
 
 `#Python` `#MySQL` `#pyMySQL` `#XGBoost` `#GridSearchCV` `#Flask`
 
-[GitHub Link](https://github.com/Lee-YongHa/CourseRegistration-Prediction)
+[Gitub Link](https://github.com/Lee-YongHa/CourseRegistration-Prediction)
 
 Web 상에서 입력한 데이터로 해당 과목의 수강 신청 성공을 예측하는 프로젝트
 
