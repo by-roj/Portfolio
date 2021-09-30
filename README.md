@@ -4,9 +4,9 @@
 
 - email: ldiwn@naver.com
 
-- 연세대학교 경영학과 / 컴퓨터과학과
+- 경영학과 / 컴퓨터과학과
 
-- 연세대학교 빅데이터 동아리 YBIGTA
+- 빅데이터 동아리 YBIGTA
   - YBIGTA Engineering Team
 - K-Shield Jr. 보안사고 분석대응 6기
 
