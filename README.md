@@ -81,7 +81,7 @@ HAI 데이터셋을 활용하여 공격 및 비정상 상황을 탐지할 수 �
 
 ### *모바일 포렌식 시각화 툴 개발*
 
-`#HTML` `#Javascript ` `#Django`
+`#HTML` `#CSS` `#Javascript` `#Python` `#Django`
 
 [Github Link](https://github.com/Lee-YongHa/mobileforensictool)
 
