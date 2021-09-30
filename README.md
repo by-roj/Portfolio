@@ -79,13 +79,13 @@ HAI 데이터셋을 활용하여 공격 및 비정상 상황을 탐지할 수 �
 
 ##
 
-### **
+### *모바일 포렌식 시각화 툴 개발*
 
-`#LSTM` `#CNN ` `#AutoEncoder` `#Dynamic Threshold`
+`#HTML` `#Javascript ` `#Django`
 
-[Github Link](https://github.com/Lee-YongHa/HAISecurity-Detection)
+[Github Link](https://github.com/Lee-YongHa/mobileforensictool)
 
-HAI 데이터셋을 활용하여 공격 및 비정상 상황을 탐지할 수 있는 AI 모델을 개발하는 프로젝트
+모바일 디바이스에서 데이터를 추출하여 분석 후 여러가지 방식으로 시각화하는 프로젝트
 
 <br>
 
