@@ -15,6 +15,38 @@
 
 ## 📜 Projects
 
+### *모바일 포렌식 시각화 툴 개발*
+
+`#HTML` `#CSS` `#Javascript` `#Python` `#Django`
+
+[Github Link](https://github.com/Lee-YongHa/mobileforensictool)
+
+모바일 디바이스에서 데이터를 추출하여 분석 후 여러가지 방식으로 시각화하는 프로젝트
+
+##  
+
+### *산업제어시스템 보안 위협 탐지 AI 모델 개발*
+
+`#LSTM` `#CNN ` `#AutoEncoder` `#Dynamic Threshold`
+
+[Github Link](https://github.com/Lee-YongHa/HAISecurity-Detection)
+
+HAI 데이터셋을 활용하여 공격 및 비정상 상황을 탐지할 수 있는 AI 모델을 개발하는 프로젝트
+
+##
+
+### *LMS System*
+
+`#MySQL` `#php`
+
+[Github Link](https://github.com/Lee-YongHa/LMS-System)
+
+Web 상에서 LMS(학습 관리) 시스템을 관리할 수 있도록 구현한 프로젝트
+
+- 회원 가입, 로그인, 수강 신청, 문제 은행 관리 등
+
+##  
+
 ### *수강 신청 결과 예측과 웹 구현*
 
 > 웹을 통한 마일리지 수강 신청 가이드라인 제공
@@ -47,18 +79,6 @@ Web 상에서 입력한 데이터로 해당 과목의 수강 신청 성공을 �
 
 ##  
 
-### *LMS System*
-
-`#MySQL` `#php`
-
-[Github Link](https://github.com/Lee-YongHa/LMS-System)
-
-Web 상에서 LMS(학습 관리) 시스템을 관리할 수 있도록 구현한 프로젝트
-
-- 회원 가입, 로그인, 수강 신청, 문제 은행 관리 등
-
-##  
-
 ### *메이저리거의 FA 적정 급여 책정*
 
 `#Multiple Linear Regression` `#PCA` `#NN` `#Random Forest`
@@ -69,67 +89,9 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 ## 
 
-### *산업제어시스템 보안 위협 탐지 AI 모델 개발*
-
-`#LSTM` `#CNN ` `#AutoEncoder` `#Dynamic Threshold`
-
-[Github Link](https://github.com/Lee-YongHa/HAISecurity-Detection)
-
-HAI 데이터셋을 활용하여 공격 및 비정상 상황을 탐지할 수 있는 AI 모델을 개발하는 프로젝트
-
-##
-
-### *모바일 포렌식 시각화 툴 개발*
-
-`#HTML` `#CSS` `#Javascript` `#Python` `#Django`
-
-[Github Link](https://github.com/Lee-YongHa/mobileforensictool)
-
-모바일 디바이스에서 데이터를 추출하여 분석 후 여러가지 방식으로 시각화하는 프로젝트
-
 <br>
 
 ## 📝 Studies
-
-### *Crawling*
-
-`#Selenium`
-
-[Github Link](https://github.com/Lee-YongHa/Crawling-Study)
-
-[T academy](https://tacademy.skplanet.com/frontMain.action)에서 제공하는 [Python을 활용한 웹 크롤러 만들기](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=133) 강의를 매주 수강 후, 발제하고 실습하는 스터디
-
-- Crawling 개념 공부
-
-- Selenium 공부
-
-##  
-
-### *MySQL*
-
-`#MySQL`
-
-[Github Link](https://github.com/Lee-YongHa/MySQL-Study)
-
-'SQL 첫걸음' 교재를 매주 공부하고 발제하는 스터디
-
-- MySQL 공부
-
-##  
-
-### *NoSQL*
-
-`#MongoDB`
-
-[Github Link](https://github.com/Lee-YongHa/NoSQL-Study)
-
-'MongoDB in Action' 교재를 매주 공부하고 발제하는 스터디
-
-- NoSQL 개념 공부
-
-- MongoDB 기초 공부
-
-##  
 
 ### *디지털 포렌식 전문가 자격증*
 
@@ -163,9 +125,47 @@ HAI 데이터셋을 활용하여 공격 및 비정상 상황을 탐지할 수 �
 
 디지털 포렌식 도구, 알고리즘을 Python으로 구현
 
+##  
+
+### *MySQL*
+
+`#MySQL`
+
+[Github Link](https://github.com/Lee-YongHa/MySQL-Study)
+
+'SQL 첫걸음' 교재를 매주 공부하고 발제하는 스터디
+
+- MySQL 공부
+
+##  
+
+### *NoSQL*
+
+`#MongoDB`
+
+[Github Link](https://github.com/Lee-YongHa/NoSQL-Study)
+
+'MongoDB in Action' 교재를 매주 공부하고 발제하는 스터디
+
+- NoSQL 개념 공부
+
+- MongoDB 기초 공부
+
+##  
+
+### *Crawling*
+
+`#Selenium`
+
+[Github Link](https://github.com/Lee-YongHa/Crawling-Study)
+
+[T academy](https://tacademy.skplanet.com/frontMain.action)에서 제공하는 [Python을 활용한 웹 크롤러 만들기](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=133) 강의를 매주 수강 후, 발제하고 실습하는 스터디
+
+- Crawling 개념 공부
+
+- Selenium 공부
+
 <br>
-
-
 
  ## 📚 Courses
 
