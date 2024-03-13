@@ -8,8 +8,9 @@
 
 - 빅데이터 동아리 YBIGTA
   - YBIGTA Engineering Team
-- K-Shield Jr. 보안사고 분석대응 6기 (2021)
-- SK Infosec 클라우드 보안전문가 교육과정 4기 (2021)
+- K-Shield Jr. 보안사고 분석대응 6기
+  - 과학기술정보통신부장관 인증서 수료 
+- SK Infosec 클라우드 보안전문가 교육과정 4기
 
 <br>
 
