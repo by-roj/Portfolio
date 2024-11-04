@@ -20,7 +20,7 @@
 
 `#HTML` `#CSS` `#Javascript` `#Python` `#Django`
 
-[Github Link](https://github.com/Lee-YongHa/mobileforensictool)
+[Github Link](https://github.com/by-roj/21_MobileForensic-Tool)
 
 모바일 디바이스에서 데이터를 추출하여 분석 후 여러가지 방식으로 시각화하는 프로젝트
 
@@ -40,7 +40,7 @@ HAI 데이터셋을 활용하여 공격 및 비정상 상황을 탐지할 수 �
 
 `#MySQL` `#php`
 
-[Github Link](https://github.com/Lee-YongHa/LMS-System)
+[Github Link](https://github.com/by-roj/20_HAISecurity-Detection)
 
 Web 상에서 LMS(학습 관리) 시스템을 관리할 수 있도록 구현한 프로젝트
 
@@ -54,7 +54,7 @@ Web 상에서 LMS(학습 관리) 시스템을 관리할 수 있도록 구현한 
 
 `#Python` `#MySQL` `#pyMySQL` `#XGBoost` `#GridSearchCV` `#Flask`
 
-[Github Link](https://github.com/Lee-YongHa/CourseRegistration-Prediction)
+[Github Link](https://github.com/by-roj/19_CourseRegistration-Prediction)
 
 Web 상에서 입력한 데이터로 해당 과목의 수강 신청 성공을 예측하는 프로젝트
 
@@ -70,7 +70,7 @@ Web 상에서 입력한 데이터로 해당 과목의 수강 신청 성공을 �
 
 `#Python` `#NLTK` `#KoNLPy` `#TF-IDF` `#H-P Point` `#JavaScript`
 
-[Github Link](https://github.com/Lee-YongHa/Lyrics-Analysis)
+[Github Link](https://github.com/by-roj/19_Lyrics-Analysis)
 
 시대별 가사 변화 양상을 분석하고 Web 상에서 시각화한 프로젝트
 
@@ -84,7 +84,7 @@ Web 상에서 입력한 데이터로 해당 과목의 수강 신청 성공을 �
 
 `#Multiple Linear Regression` `#PCA` `#NN` `#Random Forest`
 
-[Github Link](https://github.com/Lee-YongHa/MLB-Prediction)
+[Github Link](https://github.com/by-roj/19_MLB-Prediction)
 
 MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하는 프로젝트
 
@@ -98,7 +98,7 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 `#Forensic`
 
-[Github Link](https://github.com/Lee-YongHa/Forensic-Study)
+[Github Link](https://github.com/by-roj/20_Forensic-Study)
 
 디지털 포렌식 전문가 자격증 취득을 위한 스터디
 
@@ -112,7 +112,7 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 `#Forensic`
 
-[Github Link](https://github.com/Lee-YongHa/Forensic-WarGame)
+[Github Link](https://github.com/by-roj/20_Forensic-WarGame)
 
 디지털 포렌식 관련 WarGame 풀이 기록
 
@@ -122,7 +122,7 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 `#Forensic` `#Python`
 
-[Github Link](https://github.com/Lee-YongHa/Forensic-Tool)
+[Github Link](https://github.com/by-roj/20_Forensic-Tool)
 
 디지털 포렌식 도구, 알고리즘을 Python으로 구현
 
@@ -132,7 +132,7 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 `#MySQL`
 
-[Github Link](https://github.com/Lee-YongHa/MySQL-Study)
+[Github Link](https://github.com/by-roj/19_MySQL-Study)
 
 'SQL 첫걸음' 교재를 매주 공부하고 발제하는 스터디
 
@@ -144,7 +144,7 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 `#MongoDB`
 
-[Github Link](https://github.com/Lee-YongHa/NoSQL-Study)
+[Github Link](https://github.com/by-roj/19_NoSQL-Study)
 
 'MongoDB in Action' 교재를 매주 공부하고 발제하는 스터디
 
@@ -158,13 +158,31 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 `#Selenium`
 
-[Github Link](https://github.com/Lee-YongHa/Crawling-Study)
+[Github Link](https://github.com/by-roj/19_Crawling-Study)
 
 [T academy](https://tacademy.skplanet.com/frontMain.action)에서 제공하는 [Python을 활용한 웹 크롤러 만들기](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=133) 강의를 매주 수강 후, 발제하고 실습하는 스터디
 
 - Crawling 개념 공부
 
 - Selenium 공부
+
+<br>
+
+ ## 🏅 Certificates
+
+ 현재까지 취득한 IT 관련 자격증 리스트입니다.
+
+ - MOS (Master)
+
+ - 리눅스마스터 1급
+ 
+ - SQLD (SQL 개발자)
+
+ - Microsoft Certified azure Fundamentals
+
+ - 정보처리기사
+
+ - 정보보안기사
 
 <br>
 
