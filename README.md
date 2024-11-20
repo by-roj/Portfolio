@@ -178,7 +178,7 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
  
  - SQLD (SQL 개발자)
 
- - Microsoft Certified azure Fundamentals
+ - Microsoft Certified Azure Fundamentals
 
  - 정보처리기사
 
