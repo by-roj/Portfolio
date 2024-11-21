@@ -1,7 +1,5 @@
 # Portfolio
 
-- 이용하
-
 - email : by.rojayne@gmail.com
 
 - 경영학과 / 컴퓨터과학과
