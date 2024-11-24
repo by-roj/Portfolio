@@ -14,16 +14,6 @@
 
 ## 📜 Projects
 
-### *모바일 포렌식 시각화 툴 개발*
-
-`#HTML` `#CSS` `#Javascript` `#Python` `#Django`
-
-[Github Link](https://github.com/by-roj/21_MobileForensic-Tool)
-
-모바일 디바이스에서 데이터를 추출하여 분석 후 여러가지 방식으로 시각화하는 프로젝트
-
-##  
-
 ### *산업제어시스템 보안 위협 탐지 AI 모델 개발*
 
 `#LSTM` `#CNN ` `#AutoEncoder` `#Dynamic Threshold`
@@ -33,6 +23,16 @@
 HAI 데이터셋을 활용하여 공격 및 비정상 상황을 탐지할 수 있는 AI 모델을 개발하는 프로젝트
 
 ##
+
+### *모바일 포렌식 시각화 툴 개발*
+
+`#HTML` `#CSS` `#Javascript` `#Python` `#Django`
+
+[Github Link](https://github.com/by-roj/21_MobileForensic-Tool)
+
+모바일 디바이스에서 데이터를 추출하여 분석 후 여러가지 방식으로 시각화하는 프로젝트
+
+##  
 
 ### *LMS System*
 
@@ -93,27 +93,13 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 ## 📝 Studies
 
 ###  *Vulnearbility Analysis and PoC Reimplementation*
-`#Vulneratbility Analysis #C #C++` 
+`#Vulneratbility Analysis` `#C` `#C++` 
 
 [Github Link](https://github.com/by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation)
 
 취약점 분석 및 PoC 코드 재구현
 
 ##
-
-### *디지털 포렌식 전문가 자격증*
-
-`#Forensic`
-
-[Github Link](https://github.com/by-roj/20_Forensic-Study)
-
-디지털 포렌식 전문가 자격증 취득을 위한 스터디
-
-- 필기 : 요약본 매주 공부하고 '2019 디지털포렌식 전문가 2급 (국가공인) 기출문제' 풀이
-
-- 실기 : 기출문제 풀이
-
-##  
 
 ### *Forensic WarGame*
 
@@ -132,6 +118,20 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 [Github Link](https://github.com/by-roj/20_Forensic-Tool)
 
 디지털 포렌식 도구, 알고리즘을 Python으로 구현
+
+##  
+
+### *디지털 포렌식 전문가 자격증*
+
+`#Forensic`
+
+[Github Link](https://github.com/by-roj/20_Forensic-Study)
+
+디지털 포렌식 전문가 자격증 취득을 위한 스터디
+
+- 필기 : 요약본 매주 공부하고 '2019 디지털포렌식 전문가 2급 (국가공인) 기출문제' 풀이
+
+- 실기 : 기출문제 풀이
 
 ##  
 
