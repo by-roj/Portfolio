@@ -92,6 +92,15 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 ## 📝 Studies
 
+###  *Vulnearbility Analysis and PoC Reimplementation*
+`#Vulneratbility Analysis #C #C++` 
+
+[Github Link](https://github.com/by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation)
+
+취약점 분석 및 PoC 코드 재구현
+
+##
+
 ### *디지털 포렌식 전문가 자격증*
 
 `#Forensic`
