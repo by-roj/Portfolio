@@ -18,7 +18,7 @@
 
 `#LSTM` `#CNN ` `#AutoEncoder` `#Dynamic Threshold`
 
-[Github Link](https://github.com/Lee-YongHa/HAISecurity-Detection)
+[Github Link](https://github.com/by-roj/21_HAISecurity-Detection)
 
 HAI 데이터셋을 활용하여 공격 및 비정상 상황을 탐지할 수 있는 AI 모델을 개발하는 프로젝트
 
