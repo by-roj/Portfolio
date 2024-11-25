@@ -4,8 +4,8 @@
   
 <br>
 
-- Bachelor of Engineering(Computer Science)
-- Bachelor of Busineess(Business)
+- Bachelor of Engineering (Computer Science)
+- Bachelor of Busineess (Business)
 
 <br>
 
