@@ -1,18 +1,21 @@
 # Portfolio
 
-- email : by.rojayne@gmail.com
+- Email : by.rojayne@gmail.com
+
 <br>
+
 - 컴퓨터과학과
 - 경영학과
+  
 <br>
+
 - SK Infosec
-  - 클라우드 보안전문가 교육과정 4
+  - 클라우드 보안전문가 교육과정 4기
 - K-Shield Jr.
   - 보안사고 분석대응 6기
   - 과학기술정보통신부장관 인증서 수료 
 - 빅데이터 동아리 YBIGTA
   - YBIGTA Engineering Team
-
 
 <br>
 
