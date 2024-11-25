@@ -19,7 +19,7 @@
 
 <br>
 
-## Projects
+## ◼ Projects
 
 ### *Development of AI Model for Security Threat Detection in Industrial Control System*
 
@@ -97,7 +97,7 @@ Predict appropriate FA amounts based on statistical data of MLB players
 
 <br>
 
-## Studies
+## ◼ Studies
 
 ###  *Vulnearbility Analysis and PoC Reimplementation*
 `#IDAPro` `#WinDbg` `#Python` `#C` `#C++` 
@@ -170,7 +170,7 @@ Study and present NoSQL and MongoDB related data
 
 <br>
 
- ## Certificates
+ ## ◼ Certificates
 
  - MOS (Master)
 
@@ -186,7 +186,7 @@ Study and present NoSQL and MongoDB related data
 
 <br>
 
-## Courses
+## ◼ Courses
 
 - Introduction to Statistics
 
@@ -219,4 +219,4 @@ Study and present NoSQL and MongoDB related data
 
 <br>
 
-#### Thank you
+#### Thank you,
