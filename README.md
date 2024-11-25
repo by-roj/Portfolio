@@ -19,7 +19,7 @@
 
 <br>
 
-## ⬛⬜◼◻ Projects
+## ⬜◻ Projects
 
 ### *Development of AI Model for Security Threat Detection in Industrial Control System*
 
