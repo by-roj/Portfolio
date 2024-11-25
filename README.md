@@ -219,4 +219,4 @@ Study and present NoSQL and MongoDB related data
 
 <br>
 
-#### Thank you,
+#### Thank you
