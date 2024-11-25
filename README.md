@@ -27,7 +27,7 @@
 
 [Github Link](https://github.com/by-roj/20_HAISecurity-Detection)
 
-HAICon 2020: Detect attacks and anomalous situations through deep learning based on HAI datasets
+HAICon 2020: Detecting attacks and anomalous situations through deep learning based on HAI datasets
 
 ##
 
@@ -37,7 +37,7 @@ HAICon 2020: Detect attacks and anomalous situations through deep learning based
 
 [Github Link](https://github.com/by-roj/21_MobileForensics-Tool)
 
-Extract data from mobile devices, analyze it, and visualize it in different ways
+Extracting data from mobile devices, analyzing it, and visualizing it in different ways
 
 ##  
 
@@ -47,7 +47,7 @@ Extract data from mobile devices, analyze it, and visualize it in different ways
 
 [Github Link](https://github.com/by-roj/20_HAISecurity-Detection)
 
-Implementation to manage Learning Management Systems on the web
+Implementing to manage Learning Management Systems on the web
 
 - Membership, Login, Enrollment, Problem bank management, etc
 
@@ -55,17 +55,17 @@ Implementation to manage Learning Management Systems on the web
 
 ### *Prediction of the course application results and implementation on the web*
 
-> Provide guidelines for registering classes using appropriate mileage through the web
+> Providing guidelines for registering classes using appropriate mileage through the web
 
 `#Python` `#MySQL` `#pyMySQL` `#XGBoost` `#GridSearchCV` `#Flask`
 
 [Github Link](https://github.com/by-roj/19_CourseRegistration-Prediction)
 
-Predict the success of the course application with the ddata entered on the web
+Predicting the success of the course application with the ddata entered on the web
 
-- View information related to previous course registration
+- Viewing information related to previous course registration
 
-- Estimate the probability(%) of successful applications and recommend appropriate mileage based on the input data
+- Estimating the probability(%) of successful applications and recommending appropriate mileage based on the input data
 
 ##  
 
@@ -77,11 +77,11 @@ Predict the success of the course application with the ddata entered on the web
 
 [Github Link](https://github.com/by-roj/19_Lyrics-Analysis)
 
-Analyze changes in song lyrics over time and visualize on the web
+Analyzing changes in song lyrics over time and visualize on the web
 
-- Visualize via chart, wordcloud, etc
+- Visualizing via chart, wordcloud, etc
 
-- Interactive Web : Output analysis results by year and section selected
+- Interactive Web : Outputting analysis results by year and section selected
 
 ##  
 
@@ -91,7 +91,7 @@ Analyze changes in song lyrics over time and visualize on the web
 
 [Github Link](https://github.com/by-roj/19_MLB-Prediction)
 
-Predict appropriate FA amounts based on statistical data of MLB players
+Predicting appropriate FA amounts based on statistical data of MLB players
 
 ## 
 
@@ -104,7 +104,7 @@ Predict appropriate FA amounts based on statistical data of MLB players
 
 [Github Link](https://github.com/by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation)
 
-Utilize reverse engineering tools and a variety of programming languages
+Utilizing reverse engineering tools and a variety of programming languages
 
 ##
 
@@ -114,7 +114,7 @@ Utilize reverse engineering tools and a variety of programming languages
 
 [Github Link](https://github.com/by-roj/20_Forensics-WarGame)
 
-Record the process of solving digital forensics wargames
+Record of the process of solving digital forensics wargames
 
 ##  
 
@@ -124,7 +124,7 @@ Record the process of solving digital forensics wargames
 
 [Github Link](https://github.com/by-roj/20_Forensics-Tool)
 
-Implement digital forensics tools and algorithms in Python
+Implementing digital forensics tools and algorithms in Python
 
 ##  
 
@@ -134,7 +134,7 @@ Implement digital forensics tools and algorithms in Python
 
 [Github Link](https://github.com/by-roj/20_Forensics-Study)
 
-Record the preparation process for acquiring a digital forensics expert certificate
+Record of the preparation process for acquiring a digital forensics expert certificate
 
 ##  
 
@@ -144,7 +144,7 @@ Record the preparation process for acquiring a digital forensics expert certific
 
 [Github Link](https://github.com/by-roj/19_MySQL-Study)
 
-Study and present MySQL related data
+Record of studying and presenting MySQL related data
 
 ##  
 
@@ -154,7 +154,7 @@ Study and present MySQL related data
 
 [Github Link](https://github.com/by-roj/19_NoSQL-Study)
 
-Study and present NoSQL and MongoDB related data
+Record of studying and presenting NoSQL and MongoDB related data
 
 ##  
 
@@ -166,7 +166,7 @@ Study and present NoSQL and MongoDB related data
 
 [T academy](https://tacademy.skplanet.com/frontMain.action) - [Making web crawler using Python](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=133)
 
-- Study the concept of crawling and practice how to utilize selenium
+- Record of studying the concept of crawling and practicing how to utilize selenium
 
 <br>
 
