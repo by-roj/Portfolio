@@ -1,10 +1,14 @@
 # Portfolio
 
 - Email : by.rojayne@gmail.com
+  
 <br>
+
 - Bachelor of Engineering(Computer Science)
 - Bachelor of Busineess(Business)
+
 <br>
+
 - SK Infosec
   - Cloud security experts training course
 - K-Shield Jr.
