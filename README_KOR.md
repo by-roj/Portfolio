@@ -35,7 +35,7 @@ HAI 데이터셋을 활용하여 공격 및 비정상 상황을 탐지할 수 �
 
 `#HTML` `#CSS` `#Javascript` `#Python` `#Django`
 
-[Github Link](https://github.com/by-roj/21_MobileForensic-Tool)
+[Github Link](https://github.com/by-roj/21_MobileForensics-Tool)
 
 모바일 디바이스에서 데이터를 추출하여 분석 후 여러가지 방식으로 시각화하는 프로젝트
 
@@ -108,21 +108,21 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 ##
 
-### *Forensic WarGame*
+### *Forensics WarGame*
 
-`#Forensic`
+`#Forensics`
 
-[Github Link](https://github.com/by-roj/20_Forensic-WarGame)
+[Github Link](https://github.com/by-roj/20_Forensics-WarGame)
 
 디지털 포렌식 관련 WarGame 풀이 기록
 
 ##  
 
-### *Forensic Tool*
+### *Forensics Tool*
 
-`#Forensic` `#Python`
+`#Forensics` `#Python`
 
-[Github Link](https://github.com/by-roj/20_Forensic-Tool)
+[Github Link](https://github.com/by-roj/20_Forensics-Tool)
 
 디지털 포렌식 도구, 알고리즘을 Python으로 구현
 
@@ -130,9 +130,9 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 ### *디지털 포렌식 전문가 자격증*
 
-`#Forensic`
+`#Forensics`
 
-[Github Link](https://github.com/by-roj/20_Forensic-Study)
+[Github Link](https://github.com/by-roj/20_Forensics-Study)
 
 디지털 포렌식 전문가 자격증 취득을 위한 스터디
 
