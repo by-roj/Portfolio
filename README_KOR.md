@@ -1,18 +1,22 @@
 # Portfolio
 
 - email : by.rojayne@gmail.com
-
-- 경영학과 / 컴퓨터과학과
-
+<br>
+- 컴퓨터과학과
+- 경영학과
+<br>
+- SK Infosec
+  - 클라우드 보안전문가 교육과정 4
+- K-Shield Jr.
+  - 보안사고 분석대응 6기
+  - 과학기술정보통신부장관 인증서 수료 
 - 빅데이터 동아리 YBIGTA
   - YBIGTA Engineering Team
-- K-Shield Jr. 보안사고 분석대응 6기
-  - 과학기술정보통신부장관 인증서 수료 
-- SK Infosec 클라우드 보안전문가 교육과정 4기
+
 
 <br>
 
-## 📜 Projects
+## ◻ Projects
 
 ### *산업제어시스템 보안 위협 탐지 AI 모델 개발*
 
@@ -90,7 +94,7 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 <br>
 
-## 📝 Studies
+## ◻ Studies
 
 ###  *Vulnearbility Analysis and PoC Reimplementation*
 `#IDAPro` `#WinDbg` `#Python` `#C` `#C++` 
@@ -128,10 +132,6 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 [Github Link](https://github.com/by-roj/20_Forensic-Study)
 
 디지털 포렌식 전문가 자격증 취득을 위한 스터디
-
-- 필기 : 요약본 매주 공부하고 '2019 디지털포렌식 전문가 2급 (국가공인) 기출문제' 풀이
-
-- 실기 : 기출문제 풀이
 
 ##  
 
@@ -175,9 +175,7 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 <br>
 
- ## 🏅 Certificates
-
- 현재까지 취득한 IT 관련 자격증 리스트입니다.
+ ## ◻ Certificates
 
  - MOS (Master)
 
@@ -193,9 +191,7 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 <br>
 
- ## 📚 Courses
-
-대학교에서 컴퓨터과학을 복수전공하며 수강한 과목 리스트입니다.
+ ## ◻ Courses
 
 - 통계학입문
 
@@ -225,4 +221,4 @@ MLB 선수들의 스탯 데이터를 기반으로 적정 FA 금액을 예측하�
 
 <br>
 
-#### 감사합니다 👍
+#### 감사합니다
