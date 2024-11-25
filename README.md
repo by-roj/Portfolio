@@ -31,11 +31,11 @@ HAICon 2020: Detect attacks and anomalous situations through deep learning based
 
 ##
 
-### *Open source mobile forensic visualization tool development*
+### *Open source mobile forensics visualization tool development*
 
 `#HTML` `#CSS` `#Javascript` `#Python` `#Django`
 
-[Github Link](https://github.com/by-roj/21_MobileForensic-Tool)
+[Github Link](https://github.com/by-roj/21_MobileForensics-Tool)
 
 Extract data from mobile devices, analyze it, and visualize it in different ways
 
@@ -108,23 +108,23 @@ Utilize reverse engineering tools and a variety of programming languages
 
 ##
 
-### *Forensic WarGame*
+### *Forensics WarGame*
 
-`#Forensic`
+`#Forensics`
 
-[Github Link](https://github.com/by-roj/20_Forensic-WarGame)
+[Github Link](https://github.com/by-roj/20_Forensics-WarGame)
 
-Record the process of solving digital forensic wargames
+Record the process of solving digital forensics wargames
 
 ##  
 
-### *Forensic Tool*
+### *Forensics Tool*
 
-`#Forensic` `#Python`
+`#Forensics` `#Python`
 
-[Github Link](https://github.com/by-roj/20_Forensic-Tool)
+[Github Link](https://github.com/by-roj/20_Forensics-Tool)
 
-Implement digital forensic tools and algorithms in Python
+Implement digital forensics tools and algorithms in Python
 
 ##  
 
@@ -132,9 +132,9 @@ Implement digital forensic tools and algorithms in Python
 
 `#Forensic`
 
-[Github Link](https://github.com/by-roj/20_Forensic-Study)
+[Github Link](https://github.com/by-roj/20_Forensics-Study)
 
-Record the preparation process for acquiring a digital forensic expert certificate
+Record the preparation process for acquiring a digital forensics expert certificate
 
 ##  
 
