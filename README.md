@@ -190,8 +190,6 @@ Record of studying and presenting NoSQL and MongoDB related data
 
 - Introduction to Statistics
 
-  Introduction to Statistics
-
 - Introduction to Computer Science
 
 - Object Oriented Programming (Java)
